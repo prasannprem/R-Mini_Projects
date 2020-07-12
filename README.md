@@ -6,4 +6,4 @@ R-Projects done for educational purposes
 4. RealEstateProject_usingMultiVRegression.R --> Real estate price prediction using multi linear regression
 5. SVM_telecom_churn.R --> Telecom churn prediction using support vector machines
 6. heathcarecostPrediction.R --> Healthcare cost prediction using multi linear regression
-7. kmeansclustering_insuranceproject.R --> Classificati
+7. kmeansclustering_insuranceproject.R --> Classification of customers using k means clustering
